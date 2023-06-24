@@ -1,3 +1,6 @@
+
+## 🚀 About Me
+I'm a full stack developer...
 ### Hi there 👋
 I`m Washah Mohamed from Israel, 29 years old .
 I`m A Full Stack Web Developer, I really enjoy learning languages in this study framework.
