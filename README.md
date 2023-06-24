@@ -13,7 +13,7 @@ Javascript, HTML, CSS, TypeScript, BootStrap...
 
 ## My Portfolio 
 
-
+ ![Alt text]([image link](https://ibb.co/RhfsMG6))
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Washah)](https://github.com/anuraghazra/github-readme-stats)
